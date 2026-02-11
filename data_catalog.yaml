@@ -112,5 +112,5 @@ schema:
     - name: User
       type: string
       nullable: true
-      description: "Pessoal cuja qual ouviu a música"
+      description: "A pessoa que ouviu a música"
       example: "Gueguelas"
