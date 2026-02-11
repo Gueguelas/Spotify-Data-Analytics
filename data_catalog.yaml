@@ -1,0 +1,116 @@
+domain: Grupo-3-I
+dataset: Spotify-data-from-students
+description: >
+  Histórico de streaming do Spotify contendo informações
+  de reprodução de músicas, artistas e contexto da sessão.
+owner:
+  team: Miguel Araújo
+        Giovana Vincentim
+        Fernando Paiva
+        Matheus Cury
+        Allana Abreg
+        Patrick Serafim
+
+source:
+  system: spotify
+  ingestion_type: SQL / Archive
+  format: json
+
+schema:
+  primary_key: Não especificado - Não achamos dado que não repita
+  fields:
+    - name: ts
+      type: timestamp
+      nullable: false
+      description: Timestamp em UTC indicando quando a reprodução da faixa foi encerrada.
+      example: "2026-01-01 13:30:30"
+
+    - name: ms_played
+      type: integer
+      nullable: false
+      description: Quantidade de milissegundos que a faixa foi reproduzida.
+      example: 31929
+
+    - name: master_metadata_track_name
+      type: string
+      nullable: true
+      description:  Nome da música reproduzida.
+      example: "The Emptiness Machine"
+
+    - name: master_metadata_album_artist_name
+      type: string
+      nullable: true
+      description: Nome do artista ou banda da faixa.
+      example: "Linkin Park"
+
+    - name: master_metadata_album_album_name
+      type: string
+      nullable: true
+      description: Nome do álbum da faixa.
+      example: "From Zero"
+
+    - name: reason_start
+      type: string
+      nullable: true
+      description: Motivo pelo qual a faixa começou a ser reproduzida.
+      example: "trackdone"
+
+    - name: reason_end
+      type: string
+      nullable: true
+      description: Motivo pelo qual a faixa terminou.
+      example: "endplay"
+
+    - name: shuffle
+      type: boolean
+      nullable: true
+      description: Indica se o modo aleatório estava ativado.
+      example: false
+
+    - name: skipped
+      type: boolean
+      nullable: true
+      description: Indica se o usuário pulou a faixa.
+      example: true
+
+    - name: offline
+      type: boolean
+      nullable: true
+      description: Indica se a faixa foi reproduzida em modo offline.
+      example: false
+
+    - name: offline_timestamp
+      type: timestamp
+      nullable: true
+      description: Timestamp indicando quando o modo offline foi utilizado.
+      example: "2023-01-15 10:12:00"
+
+    - name: incognito_mode
+      type: boolean
+      nullable: true
+      description: Indica se a reprodução ocorreu em sessão privada.
+      example: false
+
+    - name: track_id
+      type: string
+      nullable: false
+      description: "Indentificador único da música"
+      example: "spotify:track:1EDPVGbyPKJPeGqATwXZvN"
+
+    - name: artist_id
+      type: string
+      nullable: false
+      description: "Indentificador único do artista"
+      example: ""
+
+    - name: genre
+      type: string
+      nullable: true
+      description: "Gênero do artista"
+      example: "Nu Metal"
+
+    - name: User
+      type: string
+      nullable: true
+      description: "Pessoal cuja qual ouviu a música"
+      example: "Gueguelas"
