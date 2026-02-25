@@ -23,7 +23,9 @@
     "offline": false,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:51:35Z",
@@ -49,7 +51,12 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4m5LghDfOKFZNEBZ0GO1OQ",
+    "artist_genres": [
+      "new mpb",
+      "mpb"
+    ]
   },
   {
     "ts": "2024-03-23T22:51:44Z",
@@ -75,7 +82,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4NdgoC7JkkljrX2Q0sY5ax",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:51:46Z",
@@ -101,7 +110,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "69HZc0P77aI7VUFx4GAdQm",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:51:48Z",
@@ -127,7 +138,12 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0slVGXBggrLglTLNKbeEyW",
+    "artist_genres": [
+      "new mpb",
+      "mpb"
+    ]
   },
   {
     "ts": "2024-03-23T22:51:49Z",
@@ -153,7 +169,12 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4xhEOz8sNMC2kkXsgyThuG",
+    "artist_genres": [
+      "mpb",
+      "brazilian rock"
+    ]
   },
   {
     "ts": "2024-03-23T22:51:50Z",
@@ -179,7 +200,13 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0DLHvj99Ne31Ockr6koARK",
+    "artist_genres": [
+      "brazilian pop",
+      "new mpb",
+      "mpb"
+    ]
   },
   {
     "ts": "2024-03-23T22:51:51Z",
@@ -205,7 +232,13 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1sPg5EHuQXTMElpZ4iUgXe",
+    "artist_genres": [
+      "mpb",
+      "new mpb",
+      "brazilian pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:51:52Z",
@@ -231,7 +264,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "252Z5uBh24mBMOLJYsQPRi",
+    "artist_genres": [
+      "mpb"
+    ]
   },
   {
     "ts": "2024-03-23T22:51:59Z",
@@ -257,7 +294,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "41MozSoPIsD1dJM0CLPjZF",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:52:07Z",
@@ -283,7 +324,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "41MozSoPIsD1dJM0CLPjZF",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:52:40Z",
@@ -309,7 +354,12 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6UbmqUEgjLA6jAcXwbM1Z9",
+    "artist_genres": [
+      "k-pop",
+      "k-rap"
+    ]
   },
   {
     "ts": "2024-03-23T22:52:41Z",
@@ -335,7 +385,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3c0gDdb9lhnHGFtP4prQpn",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:52:45Z",
@@ -361,7 +415,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "63yrD80RY3RNEM2YDpUpO8",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:52:46Z",
@@ -387,7 +443,12 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "24nUVBIlCGi4twz4nYxJum",
+    "artist_genres": [
+      "k-pop",
+      "bubblegum pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:52:55Z",
@@ -413,7 +474,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3IJ21966TwNZI24MwZHMu4",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:52:57Z",
@@ -439,7 +502,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6FfFBKjNgYYhHBiot04z1I",
+    "artist_genres": [
+      "hyperpop"
+    ]
   },
   {
     "ts": "2024-03-23T22:53:33Z",
@@ -465,7 +532,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6FfFBKjNgYYhHBiot04z1I",
+    "artist_genres": [
+      "hyperpop"
+    ]
   },
   {
     "ts": "2024-03-23T22:53:41Z",
@@ -491,7 +562,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "2AfmfGFbe0A0WsTYm0SDTx",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:53:42Z",
@@ -517,7 +592,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4rF7c8zpCKzuSXohs2HIpA",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:53:43Z",
@@ -543,7 +620,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3Op7D6tFVJCOHW6EAV0ck1",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:53:46Z",
@@ -569,7 +648,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7bmYpVgQub656uNTu6qGNQ",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:53:49Z",
@@ -595,7 +678,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6jJ0s89eD6GaHleKKya26X",
+    "artist_genres": [
+      "pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:53:52Z",
@@ -621,7 +708,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "2k8LSCieAnywX4Ku6k3X4m",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:53:56Z",
@@ -647,7 +736,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4rF7c8zpCKzuSXohs2HIpA",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:54:00Z",
@@ -673,7 +764,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1oYXEVbGh1L7EWGm9C68cN",
+    "artist_genres": [
+      "hyperpop"
+    ]
   },
   {
     "ts": "2024-03-23T22:54:02Z",
@@ -699,7 +794,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "2AfmfGFbe0A0WsTYm0SDTx",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:54:05Z",
@@ -725,7 +824,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4adSXA1GDOxNG7Zw89YHyz",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:54:20Z",
@@ -751,7 +852,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4adSXA1GDOxNG7Zw89YHyz",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:54:22Z",
@@ -777,7 +880,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "2AfmfGFbe0A0WsTYm0SDTx",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:54:23Z",
@@ -803,7 +910,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1uNFoZAHBGtllmzznpCI3s",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:54:25Z",
@@ -829,7 +938,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7gvbCoLA8lJUktp8G2xIRR",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:54:40Z",
@@ -855,7 +966,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3NguMMTDTItRbe2E2PZrJ2",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:54:44Z",
@@ -881,7 +994,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3uwAm6vQy7kWPS2bciKWx9",
+    "artist_genres": [
+      "bedroom pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:54:46Z",
@@ -907,7 +1024,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7bmYpVgQub656uNTu6qGNQ",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:54:48Z",
@@ -933,7 +1054,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4SpbR6yFEvexJuaBpgAU5p",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:54:49Z",
@@ -959,7 +1084,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3Op7D6tFVJCOHW6EAV0ck1",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:54:55Z",
@@ -985,7 +1112,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4adSXA1GDOxNG7Zw89YHyz",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:54:57Z",
@@ -1011,7 +1140,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6RHTUrRF63xao58xh9FXYJ",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:54:59Z",
@@ -1037,7 +1170,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6FfFBKjNgYYhHBiot04z1I",
+    "artist_genres": [
+      "hyperpop"
+    ]
   },
   {
     "ts": "2024-03-23T22:54:59Z",
@@ -1063,7 +1200,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7maQENQfaF8xDdEJp4i545",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:55:01Z",
@@ -1089,7 +1228,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6HvZYsbFfjnjFrWF950C9d",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:55:02Z",
@@ -1115,7 +1258,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1294QqYm1VuxxjRiL9M0h9",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:55:07Z",
@@ -1141,7 +1286,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5C2iFRY2UldL2hv9THw4aB",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:55:20Z",
@@ -1167,7 +1314,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5C2iFRY2UldL2hv9THw4aB",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:55:22Z",
@@ -1193,7 +1342,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7gXb99Sf9nNmpNYeAgIQFG",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:55:23Z",
@@ -1219,7 +1370,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1ebt9HnXdyYA6KgLXr1n4P",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T22:55:32Z",
@@ -1245,7 +1400,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7gXb99Sf9nNmpNYeAgIQFG",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:55:42Z",
@@ -1271,7 +1428,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7gXb99Sf9nNmpNYeAgIQFG",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-23T22:55:43Z",
@@ -1297,7 +1456,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1ebt9HnXdyYA6KgLXr1n4P",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-23T23:23:44Z",
@@ -1323,7 +1486,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1iBxtU5394iPOzmot1FDUD",
+    "artist_genres": [
+      "anime"
+    ]
   },
   {
     "ts": "2024-03-23T23:23:44Z",
@@ -1349,7 +1516,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5nGIFgo0shDenQYSE0Sn7c",
+    "artist_genres": [
+      "alternative metal"
+    ]
   },
   {
     "ts": "2024-03-23T23:23:45Z",
@@ -1375,7 +1546,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3uwAm6vQy7kWPS2bciKWx9",
+    "artist_genres": [
+      "bedroom pop"
+    ]
   },
   {
     "ts": "2024-03-27T08:31:05Z",
@@ -1401,7 +1576,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "26VFTg2z8YR0cCuwLzESi2",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-28T09:54:57Z",
@@ -1427,7 +1604,13 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5K854sjdzabwOy9KltU3Po",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2024-03-28T09:54:57Z",
@@ -1453,7 +1636,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-28T09:54:58Z",
@@ -1479,7 +1664,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6HaGTQPmzraVmaVxvz6EUc",
+    "artist_genres": [
+      "k-pop"
+    ]
   },
   {
     "ts": "2024-03-28T09:54:59Z",
@@ -1505,7 +1694,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0Y6dVaC9DZtPNH4591M42W",
+    "artist_genres": []
   },
   {
     "ts": "2024-03-28T09:55:00Z",
@@ -1531,7 +1722,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6jJ0s89eD6GaHleKKya26X",
+    "artist_genres": [
+      "pop"
+    ]
   },
   {
     "ts": "2024-07-02T16:53:28Z",
@@ -1557,7 +1752,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1Xyo4u8uXC1ZmMpatF05PJ",
+    "artist_genres": []
   },
   {
     "ts": "2025-03-01T15:54:11Z",
@@ -1583,7 +1780,16 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4JNo6Q5KdcRf1vtSX9mB0S",
+    "artist_genres": [
+      "piseiro",
+      "forró",
+      "arrocha",
+      "sertanejo",
+      "brega",
+      "forró tradicional"
+    ]
   },
   {
     "ts": "2025-03-01T15:54:15Z",
@@ -1609,7 +1815,16 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4JNo6Q5KdcRf1vtSX9mB0S",
+    "artist_genres": [
+      "piseiro",
+      "forró",
+      "arrocha",
+      "sertanejo",
+      "brega",
+      "forró tradicional"
+    ]
   },
   {
     "ts": "2025-03-01T15:54:26Z",
@@ -1635,7 +1850,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "77SW9BnxLY8rJ0RciFqkHh",
+    "artist_genres": []
   },
   {
     "ts": "2025-03-01T22:12:02Z",
@@ -1661,7 +1878,16 @@
     "offline": false,
     "offline_timestamp": 1740866967,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4JNo6Q5KdcRf1vtSX9mB0S",
+    "artist_genres": [
+      "piseiro",
+      "forró",
+      "arrocha",
+      "sertanejo",
+      "brega",
+      "forró tradicional"
+    ]
   },
   {
     "ts": "2025-03-01T22:35:50Z",
@@ -1687,7 +1913,13 @@
     "offline": false,
     "offline_timestamp": 1740868377,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6tw6EpC9RgmSRZiZg0n22t",
+    "artist_genres": [
+      "brazilian rock",
+      "mpb",
+      "brazilian pop"
+    ]
   },
   {
     "ts": "2025-03-02T18:10:05Z",
@@ -1713,7 +1945,12 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "78nr1pVnDR7qZH6QbVMYZf",
+    "artist_genres": [
+      "brazilian hip hop",
+      "brazilian trap"
+    ]
   },
   {
     "ts": "2025-03-03T02:47:10Z",
@@ -1739,7 +1976,9 @@
     "offline": false,
     "offline_timestamp": 1740970018,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0Y6dVaC9DZtPNH4591M42W",
+    "artist_genres": []
   },
   {
     "ts": "2025-03-07T03:24:25Z",
@@ -1765,7 +2004,9 @@
     "offline": false,
     "offline_timestamp": 1741317831,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "artist_genres": []
   },
   {
     "ts": "2025-06-10T09:26:06Z",
@@ -1791,7 +2032,9 @@
     "offline": false,
     "offline_timestamp": 1749547562,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-06-10T15:21:58Z",
@@ -1817,7 +2060,9 @@
     "offline": false,
     "offline_timestamp": 1749568917,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-06-10T16:25:40Z",
@@ -1843,7 +2088,9 @@
     "offline": false,
     "offline_timestamp": 1749572739,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-07-25T23:21:31Z",
@@ -1869,7 +2116,14 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-07-26T23:40:14Z",
@@ -1895,7 +2149,14 @@
     "offline": false,
     "offline_timestamp": 1753573203,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-07-31T15:11:07Z",
@@ -1921,7 +2182,12 @@
     "offline": false,
     "offline_timestamp": 1753974667,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1lpgPh5SV2b2aKmss0AhlY",
+    "artist_genres": [
+      "brazilian trap",
+      "trap"
+    ]
   },
   {
     "ts": "2025-08-01T16:48:31Z",
@@ -1947,7 +2213,12 @@
     "offline": false,
     "offline_timestamp": 1754066909,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1lpgPh5SV2b2aKmss0AhlY",
+    "artist_genres": [
+      "brazilian trap",
+      "trap"
+    ]
   },
   {
     "ts": "2025-08-01T16:48:33Z",
@@ -1973,7 +2244,12 @@
     "offline": false,
     "offline_timestamp": 1754066911,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1lpgPh5SV2b2aKmss0AhlY",
+    "artist_genres": [
+      "brazilian trap",
+      "trap"
+    ]
   },
   {
     "ts": "2025-08-02T23:30:48Z",
@@ -1999,7 +2275,12 @@
     "offline": false,
     "offline_timestamp": 1754177448,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6LWehyU6oi1UVgwp2PhVEZ",
+    "artist_genres": [
+      "pagode",
+      "samba"
+    ]
   },
   {
     "ts": "2025-08-02T23:31:45Z",
@@ -2025,7 +2306,12 @@
     "offline": false,
     "offline_timestamp": 1754177505,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6xBfvBOVmzVbkVgl0C6jxH",
+    "artist_genres": [
+      "samba",
+      "pagode"
+    ]
   },
   {
     "ts": "2025-08-02T23:36:03Z",
@@ -2051,7 +2337,12 @@
     "offline": false,
     "offline_timestamp": 1754177763,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6LWehyU6oi1UVgwp2PhVEZ",
+    "artist_genres": [
+      "pagode",
+      "samba"
+    ]
   },
   {
     "ts": "2025-08-02T23:37:27Z",
@@ -2077,7 +2368,13 @@
     "offline": false,
     "offline_timestamp": 1754177845,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5K854sjdzabwOy9KltU3Po",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-08-02T23:38:26Z",
@@ -2103,7 +2400,12 @@
     "offline": false,
     "offline_timestamp": 1754177904,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6LWehyU6oi1UVgwp2PhVEZ",
+    "artist_genres": [
+      "pagode",
+      "samba"
+    ]
   },
   {
     "ts": "2025-08-02T23:38:41Z",
@@ -2129,7 +2431,12 @@
     "offline": false,
     "offline_timestamp": 1754177920,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6LWehyU6oi1UVgwp2PhVEZ",
+    "artist_genres": [
+      "pagode",
+      "samba"
+    ]
   },
   {
     "ts": "2025-08-02T23:39:13Z",
@@ -2155,7 +2462,12 @@
     "offline": false,
     "offline_timestamp": 1754177952,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+    "artist_genres": [
+      "indie",
+      "lo-fi indie"
+    ]
   },
   {
     "ts": "2025-08-02T23:39:17Z",
@@ -2181,7 +2493,12 @@
     "offline": false,
     "offline_timestamp": 1754177950,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+    "artist_genres": [
+      "indie",
+      "lo-fi indie"
+    ]
   },
   {
     "ts": "2025-08-03T20:12:11Z",
@@ -2207,7 +2524,13 @@
     "offline": false,
     "offline_timestamp": 1754251929,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "74aLweE8FHHf4yN5TWv1GM",
+    "artist_genres": [
+      "gothic metal",
+      "gothic rock",
+      "finnish rock"
+    ]
   },
   {
     "ts": "2025-08-03T20:15:46Z",
@@ -2233,7 +2556,9 @@
     "offline": false,
     "offline_timestamp": 1754252146,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-03T20:15:50Z",
@@ -2259,7 +2584,9 @@
     "offline": false,
     "offline_timestamp": 1754252149,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-03T20:15:51Z",
@@ -2285,7 +2612,9 @@
     "offline": false,
     "offline_timestamp": 1754252151,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-03T23:51:14Z",
@@ -2311,7 +2640,13 @@
     "offline": false,
     "offline_timestamp": 1754265074,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4HF14RSTZQcEafvfPCFEpI",
+    "artist_genres": [
+      "sertanejo",
+      "sertanejo universitário",
+      "arrocha"
+    ]
   },
   {
     "ts": "2025-08-03T23:51:34Z",
@@ -2337,7 +2672,13 @@
     "offline": false,
     "offline_timestamp": 1754265093,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4HF14RSTZQcEafvfPCFEpI",
+    "artist_genres": [
+      "sertanejo",
+      "sertanejo universitário",
+      "arrocha"
+    ]
   },
   {
     "ts": "2025-08-03T23:52:43Z",
@@ -2363,7 +2704,14 @@
     "offline": false,
     "offline_timestamp": 1754265163,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "2Z0lRIqr997lIUiPtrpKCr",
+    "artist_genres": [
+      "sertanejo",
+      "sertanejo universitário",
+      "arrocha",
+      "agronejo"
+    ]
   },
   {
     "ts": "2025-08-03T23:53:01Z",
@@ -2389,7 +2737,14 @@
     "offline": false,
     "offline_timestamp": 1754265181,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "2Z0lRIqr997lIUiPtrpKCr",
+    "artist_genres": [
+      "sertanejo",
+      "sertanejo universitário",
+      "arrocha",
+      "agronejo"
+    ]
   },
   {
     "ts": "2025-08-03T23:53:03Z",
@@ -2415,7 +2770,14 @@
     "offline": false,
     "offline_timestamp": 1754265182,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "2Z0lRIqr997lIUiPtrpKCr",
+    "artist_genres": [
+      "sertanejo",
+      "sertanejo universitário",
+      "arrocha",
+      "agronejo"
+    ]
   },
   {
     "ts": "2025-08-03T23:53:19Z",
@@ -2441,7 +2803,13 @@
     "offline": false,
     "offline_timestamp": 1754265198,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4HF14RSTZQcEafvfPCFEpI",
+    "artist_genres": [
+      "sertanejo",
+      "sertanejo universitário",
+      "arrocha"
+    ]
   },
   {
     "ts": "2025-08-03T23:54:27Z",
@@ -2467,7 +2835,14 @@
     "offline": false,
     "offline_timestamp": 1754265267,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3p7PcrEHaaKLJnPUGOtRlT",
+    "artist_genres": [
+      "sertanejo",
+      "sertanejo universitário",
+      "arrocha",
+      "agronejo"
+    ]
   },
   {
     "ts": "2025-08-04T00:00:19Z",
@@ -2493,7 +2868,13 @@
     "offline": false,
     "offline_timestamp": 1754265618,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0JRPF8WIKUtSO2IUYfrcuh",
+    "artist_genres": [
+      "sertanejo",
+      "agronejo",
+      "sertanejo universitário"
+    ]
   },
   {
     "ts": "2025-08-04T00:00:39Z",
@@ -2519,7 +2900,13 @@
     "offline": false,
     "offline_timestamp": 1754265638,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0JRPF8WIKUtSO2IUYfrcuh",
+    "artist_genres": [
+      "sertanejo",
+      "agronejo",
+      "sertanejo universitário"
+    ]
   },
   {
     "ts": "2025-08-04T00:03:30Z",
@@ -2545,7 +2932,14 @@
     "offline": false,
     "offline_timestamp": 1754265810,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5nP8x4uEFjAAmDzwOEc9b8",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "brazilian hip hop",
+      "trap funk"
+    ]
   },
   {
     "ts": "2025-08-06T12:53:07Z",
@@ -2571,7 +2965,9 @@
     "offline": false,
     "offline_timestamp": 1754484737,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-09T23:08:06Z",
@@ -2597,7 +2993,9 @@
     "offline": false,
     "offline_timestamp": 1754780878,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0du5cEVh5yTK9QJze8zA0C",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-10T17:25:40Z",
@@ -2623,7 +3021,9 @@
     "offline": false,
     "offline_timestamp": 1754846739,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0du5cEVh5yTK9QJze8zA0C",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-10T17:25:41Z",
@@ -2649,7 +3049,9 @@
     "offline": false,
     "offline_timestamp": 1754846740,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0du5cEVh5yTK9QJze8zA0C",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-10T18:01:01Z",
@@ -2675,7 +3077,9 @@
     "offline": false,
     "offline_timestamp": 1754848860,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0du5cEVh5yTK9QJze8zA0C",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-10T21:11:19Z",
@@ -2701,7 +3105,14 @@
     "offline": false,
     "offline_timestamp": 1754860278,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5nP8x4uEFjAAmDzwOEc9b8",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "brazilian hip hop",
+      "trap funk"
+    ]
   },
   {
     "ts": "2025-08-12T16:54:18Z",
@@ -2727,7 +3138,11 @@
     "offline": false,
     "offline_timestamp": 1755017658,
     "incognito_mode": true,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5g0Xoyr7uIlAYCkpgsFhJH",
+    "artist_genres": [
+      "brazilian pop"
+    ]
   },
   {
     "ts": "2025-08-12T16:57:53Z",
@@ -2753,7 +3168,13 @@
     "offline": false,
     "offline_timestamp": 1755017873,
     "incognito_mode": true,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3qvcCP2J0fWi0m0uQDUf6r",
+    "artist_genres": [
+      "sertanejo",
+      "sertanejo universitário",
+      "arrocha"
+    ]
   },
   {
     "ts": "2025-08-13T13:58:16Z",
@@ -2779,7 +3200,11 @@
     "offline": false,
     "offline_timestamp": 1755093495,
     "incognito_mode": true,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5nGIFgo0shDenQYSE0Sn7c",
+    "artist_genres": [
+      "alternative metal"
+    ]
   },
   {
     "ts": "2025-08-13T16:20:53Z",
@@ -2805,7 +3230,12 @@
     "offline": false,
     "offline_timestamp": 1755102052,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3NqV2DJoAWsjl787bWaHW7",
+    "artist_genres": [
+      "riot grrrl",
+      "punk"
+    ]
   },
   {
     "ts": "2025-08-13T16:21:00Z",
@@ -2831,7 +3261,12 @@
     "offline": false,
     "offline_timestamp": 1755102060,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3NqV2DJoAWsjl787bWaHW7",
+    "artist_genres": [
+      "riot grrrl",
+      "punk"
+    ]
   },
   {
     "ts": "2025-08-13T21:18:40Z",
@@ -2857,7 +3292,12 @@
     "offline": false,
     "offline_timestamp": 1755119918,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3NqV2DJoAWsjl787bWaHW7",
+    "artist_genres": [
+      "riot grrrl",
+      "punk"
+    ]
   },
   {
     "ts": "2025-08-13T21:18:40Z",
@@ -2883,7 +3323,12 @@
     "offline": false,
     "offline_timestamp": 1755119919,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3NqV2DJoAWsjl787bWaHW7",
+    "artist_genres": [
+      "riot grrrl",
+      "punk"
+    ]
   },
   {
     "ts": "2025-08-14T09:38:14Z",
@@ -2909,7 +3354,12 @@
     "offline": false,
     "offline_timestamp": 1755164292,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3NqV2DJoAWsjl787bWaHW7",
+    "artist_genres": [
+      "riot grrrl",
+      "punk"
+    ]
   },
   {
     "ts": "2025-08-14T15:44:31Z",
@@ -2935,7 +3385,12 @@
     "offline": false,
     "offline_timestamp": 1755186271,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6R26kGib2ubbZJMh7kKVGV",
+    "artist_genres": [
+      "phonk",
+      "brazilian phonk"
+    ]
   },
   {
     "ts": "2025-08-17T16:08:26Z",
@@ -2961,7 +3416,13 @@
     "offline": false,
     "offline_timestamp": 1755446906,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4iJLPqClelZOBCBifm8Fzv",
+    "artist_genres": [
+      "emo",
+      "screamo",
+      "post-hardcore"
+    ]
   },
   {
     "ts": "2025-08-17T16:11:43Z",
@@ -2987,7 +3448,13 @@
     "offline": false,
     "offline_timestamp": 1755447103,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4iJLPqClelZOBCBifm8Fzv",
+    "artist_genres": [
+      "emo",
+      "screamo",
+      "post-hardcore"
+    ]
   },
   {
     "ts": "2025-08-17T16:13:16Z",
@@ -3013,7 +3480,12 @@
     "offline": false,
     "offline_timestamp": 1755447196,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6LWehyU6oi1UVgwp2PhVEZ",
+    "artist_genres": [
+      "pagode",
+      "samba"
+    ]
   },
   {
     "ts": "2025-08-17T16:14:56Z",
@@ -3039,7 +3511,13 @@
     "offline": false,
     "offline_timestamp": 1755447296,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4iJLPqClelZOBCBifm8Fzv",
+    "artist_genres": [
+      "emo",
+      "screamo",
+      "post-hardcore"
+    ]
   },
   {
     "ts": "2025-08-17T16:16:49Z",
@@ -3065,7 +3543,13 @@
     "offline": false,
     "offline_timestamp": 1755447409,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4iJLPqClelZOBCBifm8Fzv",
+    "artist_genres": [
+      "emo",
+      "screamo",
+      "post-hardcore"
+    ]
   },
   {
     "ts": "2025-08-17T16:17:32Z",
@@ -3091,7 +3575,13 @@
     "offline": false,
     "offline_timestamp": 1755447441,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4iJLPqClelZOBCBifm8Fzv",
+    "artist_genres": [
+      "emo",
+      "screamo",
+      "post-hardcore"
+    ]
   },
   {
     "ts": "2025-08-17T16:22:11Z",
@@ -3117,7 +3607,14 @@
     "offline": false,
     "offline_timestamp": 1755447729,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-08-17T16:23:35Z",
@@ -3143,7 +3640,14 @@
     "offline": false,
     "offline_timestamp": 1755447814,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-08-17T16:24:00Z",
@@ -3169,7 +3673,14 @@
     "offline": false,
     "offline_timestamp": 1755447837,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-08-17T16:24:09Z",
@@ -3195,7 +3706,14 @@
     "offline": false,
     "offline_timestamp": 1755447848,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-08-17T16:24:31Z",
@@ -3221,7 +3739,14 @@
     "offline": false,
     "offline_timestamp": 1755447842,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-08-17T16:24:42Z",
@@ -3247,7 +3772,14 @@
     "offline": false,
     "offline_timestamp": 1755447872,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-08-17T16:24:48Z",
@@ -3273,7 +3805,9 @@
     "offline": false,
     "offline_timestamp": 1755447888,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-17T16:28:13Z",
@@ -3299,7 +3833,12 @@
     "offline": false,
     "offline_timestamp": 1755448089,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5dYdZmGyv2UTIN1XMe1drN",
+    "artist_genres": [
+      "brazilian pop",
+      "new mpb"
+    ]
   },
   {
     "ts": "2025-08-17T16:28:14Z",
@@ -3325,7 +3864,12 @@
     "offline": false,
     "offline_timestamp": 1755448094,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5dYdZmGyv2UTIN1XMe1drN",
+    "artist_genres": [
+      "brazilian pop",
+      "new mpb"
+    ]
   },
   {
     "ts": "2025-08-17T16:28:17Z",
@@ -3351,7 +3895,12 @@
     "offline": false,
     "offline_timestamp": 1755448097,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5dYdZmGyv2UTIN1XMe1drN",
+    "artist_genres": [
+      "brazilian pop",
+      "new mpb"
+    ]
   },
   {
     "ts": "2025-08-17T16:28:30Z",
@@ -3377,7 +3926,12 @@
     "offline": false,
     "offline_timestamp": 1755448109,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5dYdZmGyv2UTIN1XMe1drN",
+    "artist_genres": [
+      "brazilian pop",
+      "new mpb"
+    ]
   },
   {
     "ts": "2025-08-17T16:28:44Z",
@@ -3403,7 +3957,12 @@
     "offline": false,
     "offline_timestamp": 1755448123,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5dYdZmGyv2UTIN1XMe1drN",
+    "artist_genres": [
+      "brazilian pop",
+      "new mpb"
+    ]
   },
   {
     "ts": "2025-08-18T21:34:30Z",
@@ -3429,7 +3988,14 @@
     "offline": false,
     "offline_timestamp": 1755552870,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-08-18T21:34:47Z",
@@ -3455,7 +4021,14 @@
     "offline": false,
     "offline_timestamp": 1755552881,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-08-18T21:34:47Z",
@@ -3481,7 +4054,14 @@
     "offline": false,
     "offline_timestamp": 1755552886,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-08-18T21:34:47Z",
@@ -3507,7 +4087,14 @@
     "offline": false,
     "offline_timestamp": 1755552886,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-08-21T21:11:19Z",
@@ -3533,7 +4120,9 @@
     "offline": false,
     "offline_timestamp": 1755810679,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3EOEK57CV77D4ovYVcmiyt",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-21T21:11:19Z",
@@ -3559,7 +4148,9 @@
     "offline": false,
     "offline_timestamp": 1755810673,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3EOEK57CV77D4ovYVcmiyt",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-25T22:57:39Z",
@@ -3585,7 +4176,14 @@
     "offline": false,
     "offline_timestamp": 1756162658,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6rk6Izp6o42fUdE0jRqAP4",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-08-26T16:54:54Z",
@@ -3611,7 +4209,9 @@
     "offline": false,
     "offline_timestamp": 1756227290,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5cj0lLjcoR7YOSnhnX0Po5",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-26T23:00:32Z",
@@ -3637,7 +4237,9 @@
     "offline": false,
     "offline_timestamp": 1756249231,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5cj0lLjcoR7YOSnhnX0Po5",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-26T23:00:34Z",
@@ -3663,7 +4265,9 @@
     "offline": false,
     "offline_timestamp": 1756249232,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5cj0lLjcoR7YOSnhnX0Po5",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-26T23:01:18Z",
@@ -3689,7 +4293,9 @@
     "offline": false,
     "offline_timestamp": 1756249277,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5cj0lLjcoR7YOSnhnX0Po5",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-26T23:01:25Z",
@@ -3715,7 +4321,9 @@
     "offline": false,
     "offline_timestamp": 1756249285,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5cj0lLjcoR7YOSnhnX0Po5",
+    "artist_genres": []
   },
   {
     "ts": "2025-09-03T09:25:18Z",
@@ -3741,7 +4349,13 @@
     "offline": false,
     "offline_timestamp": 1756891518,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1xKdiuYoOCM2oCMErUjvtq",
+    "artist_genres": [
+      "pagode",
+      "samba",
+      "pagode gospel"
+    ]
   },
   {
     "ts": "2025-09-09T09:35:46Z",
@@ -3767,7 +4381,13 @@
     "offline": false,
     "offline_timestamp": 1757410546,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5xYkM2vMrE23taj6tl7qkm",
+    "artist_genres": [
+      "brazilian funk",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-09-09T09:35:50Z",
@@ -3793,7 +4413,13 @@
     "offline": false,
     "offline_timestamp": 1757410550,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5xYkM2vMrE23taj6tl7qkm",
+    "artist_genres": [
+      "brazilian funk",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-09-14T16:18:45Z",
@@ -3819,7 +4445,11 @@
     "offline": false,
     "offline_timestamp": 1757866723,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6lrWmdRj2k37Hc5ugFNygs",
+    "artist_genres": [
+      "boom bap"
+    ]
   },
   {
     "ts": "2025-09-14T16:18:47Z",
@@ -3845,7 +4475,11 @@
     "offline": false,
     "offline_timestamp": 1757866726,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6lrWmdRj2k37Hc5ugFNygs",
+    "artist_genres": [
+      "boom bap"
+    ]
   },
   {
     "ts": "2025-09-14T16:19:16Z",
@@ -3871,7 +4505,11 @@
     "offline": false,
     "offline_timestamp": 1757866754,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6lrWmdRj2k37Hc5ugFNygs",
+    "artist_genres": [
+      "boom bap"
+    ]
   },
   {
     "ts": "2025-09-14T16:20:36Z",
@@ -3897,7 +4535,12 @@
     "offline": false,
     "offline_timestamp": 1757866836,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7HoPy2YmahCCaYaFSFq497",
+    "artist_genres": [
+      "boom bap",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-09-14T16:20:45Z",
@@ -3923,7 +4566,12 @@
     "offline": false,
     "offline_timestamp": 1757866844,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7HoPy2YmahCCaYaFSFq497",
+    "artist_genres": [
+      "boom bap",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-09-14T16:22:09Z",
@@ -3949,7 +4597,11 @@
     "offline": false,
     "offline_timestamp": 1757866915,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "04gDigrS5kc9YWfZHwBETP",
+    "artist_genres": [
+      "pop"
+    ]
   },
   {
     "ts": "2025-09-24T16:36:36Z",
@@ -3975,7 +4627,13 @@
     "offline": false,
     "offline_timestamp": 1758731796,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1OwYxVDNKP9JtSpp5E0uA4",
+    "artist_genres": [
+      "brazilian funk",
+      "funk de bh",
+      "brega funk"
+    ]
   },
   {
     "ts": "2025-09-24T16:36:38Z",
@@ -4001,7 +4659,13 @@
     "offline": false,
     "offline_timestamp": 1758731798,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1OwYxVDNKP9JtSpp5E0uA4",
+    "artist_genres": [
+      "brazilian funk",
+      "funk de bh",
+      "brega funk"
+    ]
   },
   {
     "ts": "2025-09-24T23:31:36Z",
@@ -4027,7 +4691,13 @@
     "offline": false,
     "offline_timestamp": 1758756692,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1OwYxVDNKP9JtSpp5E0uA4",
+    "artist_genres": [
+      "brazilian funk",
+      "funk de bh",
+      "brega funk"
+    ]
   },
   {
     "ts": "2025-09-25T21:50:43Z",
@@ -4053,7 +4723,15 @@
     "offline": false,
     "offline_timestamp": 1758837042,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3hE8S8ohRErocpkY7uJW4a",
+    "artist_genres": [
+      "symphonic metal",
+      "gothic metal",
+      "gothic rock",
+      "power metal",
+      "metal"
+    ]
   },
   {
     "ts": "2025-09-25T21:50:51Z",
@@ -4079,7 +4757,15 @@
     "offline": false,
     "offline_timestamp": 1758837037,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3hE8S8ohRErocpkY7uJW4a",
+    "artist_genres": [
+      "symphonic metal",
+      "gothic metal",
+      "gothic rock",
+      "power metal",
+      "metal"
+    ]
   },
   {
     "ts": "2025-09-25T21:50:51Z",
@@ -4105,7 +4791,15 @@
     "offline": false,
     "offline_timestamp": 1758837045,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3hE8S8ohRErocpkY7uJW4a",
+    "artist_genres": [
+      "symphonic metal",
+      "gothic metal",
+      "gothic rock",
+      "power metal",
+      "metal"
+    ]
   },
   {
     "ts": "2025-09-25T22:17:15Z",
@@ -4131,7 +4825,15 @@
     "offline": false,
     "offline_timestamp": 1758838635,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3hE8S8ohRErocpkY7uJW4a",
+    "artist_genres": [
+      "symphonic metal",
+      "gothic metal",
+      "gothic rock",
+      "power metal",
+      "metal"
+    ]
   },
   {
     "ts": "2025-09-26T09:49:51Z",
@@ -4157,7 +4859,15 @@
     "offline": false,
     "offline_timestamp": 1758880190,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3hE8S8ohRErocpkY7uJW4a",
+    "artist_genres": [
+      "symphonic metal",
+      "gothic metal",
+      "gothic rock",
+      "power metal",
+      "metal"
+    ]
   },
   {
     "ts": "2025-09-29T21:41:51Z",
@@ -4183,7 +4893,13 @@
     "offline": false,
     "offline_timestamp": 1759182110,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6aoGgTKGqtsjj48ymcNs4Z",
+    "artist_genres": [
+      "brazilian funk",
+      "funk consciente",
+      "trap funk"
+    ]
   },
   {
     "ts": "2025-09-29T21:41:51Z",
@@ -4209,7 +4925,13 @@
     "offline": false,
     "offline_timestamp": 1759182110,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "6aoGgTKGqtsjj48ymcNs4Z",
+    "artist_genres": [
+      "brazilian funk",
+      "funk consciente",
+      "trap funk"
+    ]
   },
   {
     "ts": "2025-09-30T17:04:13Z",
@@ -4235,7 +4957,15 @@
     "offline": false,
     "offline_timestamp": 1759251852,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "2ye2Wgw4gimLv2eAKyk1NB",
+    "artist_genres": [
+      "metal",
+      "thrash metal",
+      "rock",
+      "heavy metal",
+      "hard rock"
+    ]
   },
   {
     "ts": "2025-10-01T22:20:20Z",
@@ -4261,7 +4991,14 @@
     "offline": false,
     "offline_timestamp": 1759357220,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1yR65psqiazQpeM79CcGh8",
+    "artist_genres": [
+      "sertanejo",
+      "sertanejo universitário",
+      "arrocha",
+      "forró"
+    ]
   },
   {
     "ts": "2025-10-02T09:48:25Z",
@@ -4287,7 +5024,14 @@
     "offline": false,
     "offline_timestamp": 1759398505,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1yR65psqiazQpeM79CcGh8",
+    "artist_genres": [
+      "sertanejo",
+      "sertanejo universitário",
+      "arrocha",
+      "forró"
+    ]
   },
   {
     "ts": "2025-10-02T09:48:27Z",
@@ -4313,7 +5057,14 @@
     "offline": false,
     "offline_timestamp": 1759398506,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1yR65psqiazQpeM79CcGh8",
+    "artist_genres": [
+      "sertanejo",
+      "sertanejo universitário",
+      "arrocha",
+      "forró"
+    ]
   },
   {
     "ts": "2025-10-03T23:09:28Z",
@@ -4339,7 +5090,13 @@
     "offline": false,
     "offline_timestamp": 1759532966,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0Z7qVrRll0xvdJ68DX0O0b",
+    "artist_genres": [
+      "samba",
+      "mpb",
+      "pagode"
+    ]
   },
   {
     "ts": "2025-10-03T23:09:41Z",
@@ -4365,7 +5122,13 @@
     "offline": false,
     "offline_timestamp": 1759532981,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0Z7qVrRll0xvdJ68DX0O0b",
+    "artist_genres": [
+      "samba",
+      "mpb",
+      "pagode"
+    ]
   },
   {
     "ts": "2025-10-03T23:09:41Z",
@@ -4391,7 +5154,13 @@
     "offline": false,
     "offline_timestamp": 1759532969,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0Z7qVrRll0xvdJ68DX0O0b",
+    "artist_genres": [
+      "samba",
+      "mpb",
+      "pagode"
+    ]
   },
   {
     "ts": "2025-10-03T23:09:41Z",
@@ -4417,7 +5186,13 @@
     "offline": false,
     "offline_timestamp": 1759532981,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0Z7qVrRll0xvdJ68DX0O0b",
+    "artist_genres": [
+      "samba",
+      "mpb",
+      "pagode"
+    ]
   },
   {
     "ts": "2025-10-17T16:49:11Z",
@@ -4443,7 +5218,14 @@
     "offline": false,
     "offline_timestamp": 1760719751,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "trap funk",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2025-10-23T16:36:19Z",
@@ -4469,7 +5251,9 @@
     "offline": false,
     "offline_timestamp": 1761237379,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "2Cg4UE0dOib6suUva3ieEH",
+    "artist_genres": []
   },
   {
     "ts": "2025-10-24T09:48:45Z",
@@ -4495,7 +5279,14 @@
     "offline": false,
     "offline_timestamp": 1761299325,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "5nP8x4uEFjAAmDzwOEc9b8",
+    "artist_genres": [
+      "brazilian trap",
+      "trap",
+      "brazilian hip hop",
+      "trap funk"
+    ]
   },
   {
     "ts": "2025-10-25T15:50:07Z",
@@ -4521,7 +5312,9 @@
     "offline": false,
     "offline_timestamp": 1761407407,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "3nnQpaTvKb5jCQabZefACI",
+    "artist_genres": []
   },
   {
     "ts": "2025-10-25T15:52:00Z",
@@ -4547,7 +5340,13 @@
     "offline": false,
     "offline_timestamp": 1761407520,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1dfeR4HaWDbWqFHLkxsg1d",
+    "artist_genres": [
+      "classic rock",
+      "rock",
+      "glam rock"
+    ]
   },
   {
     "ts": "2025-10-31T15:48:42Z",
@@ -4573,7 +5372,14 @@
     "offline": false,
     "offline_timestamp": 1761925714,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "7gJN8W0589FisSYJS17K54",
+    "artist_genres": [
+      "brazilian hip hop",
+      "brazilian trap",
+      "trap funk",
+      "trap"
+    ]
   },
   {
     "ts": "2025-11-11T22:21:51Z",
@@ -4599,7 +5405,9 @@
     "offline": false,
     "offline_timestamp": 1762899706,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-11-13T22:30:34Z",
@@ -4625,7 +5433,9 @@
     "offline": false,
     "offline_timestamp": 1763073032,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "0j1Tuh5A6zWMI4nAjPjBsW",
+    "artist_genres": []
   },
   {
     "ts": "2025-11-19T17:04:13Z",
@@ -4651,7 +5461,12 @@
     "offline": false,
     "offline_timestamp": 1763571853,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "78nr1pVnDR7qZH6QbVMYZf",
+    "artist_genres": [
+      "brazilian hip hop",
+      "brazilian trap"
+    ]
   },
   {
     "ts": "2025-11-19T17:04:15Z",
@@ -4677,7 +5492,12 @@
     "offline": false,
     "offline_timestamp": 1763571855,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "78nr1pVnDR7qZH6QbVMYZf",
+    "artist_genres": [
+      "brazilian hip hop",
+      "brazilian trap"
+    ]
   },
   {
     "ts": "2025-11-19T21:16:00Z",
@@ -4703,7 +5523,9 @@
     "offline": false,
     "offline_timestamp": 1763586953,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-11-30T16:09:25Z",
@@ -4729,7 +5551,12 @@
     "offline": false,
     "offline_timestamp": 1764518965,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4llklDtTTyMYMY2LfFOkTI",
+    "artist_genres": [
+      "italian singer-songwriter",
+      "canzone napoletana"
+    ]
   },
   {
     "ts": "2025-11-30T16:09:37Z",
@@ -4755,7 +5582,12 @@
     "offline": false,
     "offline_timestamp": 1764518972,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "4llklDtTTyMYMY2LfFOkTI",
+    "artist_genres": [
+      "italian singer-songwriter",
+      "canzone napoletana"
+    ]
   },
   {
     "ts": "2025-12-08T17:04:27Z",
@@ -4781,7 +5613,13 @@
     "offline": false,
     "offline_timestamp": 1765213467,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": "1A3dFCPF68vh5lyxzBqLUH",
+    "artist_genres": [
+      "brazilian rock",
+      "emo",
+      "brazilian pop"
+    ]
   },
   {
     "ts": "2026-01-22T13:26:06Z",
@@ -4807,7 +5645,9 @@
     "offline": false,
     "offline_timestamp": 1769088366,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2026-01-22T13:26:19Z",
@@ -4833,7 +5673,9 @@
     "offline": false,
     "offline_timestamp": 1769088378,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2026-01-22T13:38:18Z",
@@ -4859,7 +5701,9 @@
     "offline": false,
     "offline_timestamp": 1769089098,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2026-01-22T13:38:19Z",
@@ -4885,7 +5729,9 @@
     "offline": false,
     "offline_timestamp": 1769089099,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2026-01-22T13:38:23Z",
@@ -4911,6 +5757,8 @@
     "offline": false,
     "offline_timestamp": 1769089100,
     "incognito_mode": false,
-    "user": "Allanabre"
+    "user": "Allanabre",
+    "artist_id": null,
+    "artist_genres": []
   }
 ]

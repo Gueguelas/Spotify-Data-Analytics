@@ -23,7 +23,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2023-07-13T16:58:00Z",
@@ -49,7 +51,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2023-07-13T16:58:05Z",
@@ -75,7 +79,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2023-07-13T16:58:05Z",
@@ -101,7 +107,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2023-08-18T13:20:25Z",
@@ -127,7 +135,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2023-08-18T13:59:02Z",
@@ -153,7 +163,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-06-24T02:33:49Z",
@@ -179,7 +191,12 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+    "artist_genres": [
+      "indie",
+      "lo-fi indie"
+    ]
   },
   {
     "ts": "2024-06-24T02:33:50Z",
@@ -205,7 +222,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "0Y6dVaC9DZtPNH4591M42W",
+    "artist_genres": []
   },
   {
     "ts": "2024-06-24T02:33:50Z",
@@ -231,7 +250,12 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+    "artist_genres": [
+      "indie",
+      "lo-fi indie"
+    ]
   },
   {
     "ts": "2024-06-24T02:33:51Z",
@@ -257,7 +281,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "6hxcqtqpmf08pTDkffU5xx",
+    "artist_genres": []
   },
   {
     "ts": "2024-06-24T02:33:52Z",
@@ -283,7 +309,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "3TNt4aUIxgfy9aoaft5Jj2",
+    "artist_genres": [
+      "indie rock"
+    ]
   },
   {
     "ts": "2024-06-24T02:33:52Z",
@@ -309,7 +339,13 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5exy2LREZrJ6aRzj1SwXQX",
+    "artist_genres": [
+      "sertanejo",
+      "sertanejo universitário",
+      "arrocha"
+    ]
   },
   {
     "ts": "2024-06-24T02:33:54Z",
@@ -335,7 +371,12 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+    "artist_genres": [
+      "indie",
+      "lo-fi indie"
+    ]
   },
   {
     "ts": "2024-06-24T02:33:55Z",
@@ -361,7 +402,12 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "3eKjUJNwglGwLmS8dELCuC",
+    "artist_genres": [
+      "brazilian funk",
+      "brega funk"
+    ]
   },
   {
     "ts": "2024-06-24T02:33:55Z",
@@ -387,7 +433,16 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "artist_genres": [
+      "christmas",
+      "big band",
+      "adult standards",
+      "swing music",
+      "jazz",
+      "vocal jazz"
+    ]
   },
   {
     "ts": "2024-06-24T02:36:10Z",
@@ -413,7 +468,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-06-24T02:41:46Z",
@@ -439,7 +496,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-08-24T17:38:47Z",
@@ -465,7 +524,14 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "2h5Ha0ZiMFmOQD3iYcSXsy",
+    "artist_genres": [
+      "brazilian trap",
+      "trap funk",
+      "trap",
+      "brazilian hip hop"
+    ]
   },
   {
     "ts": "2024-09-13T16:53:28Z",
@@ -491,7 +557,16 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "artist_genres": [
+      "christmas",
+      "big band",
+      "adult standards",
+      "swing music",
+      "jazz",
+      "vocal jazz"
+    ]
   },
   {
     "ts": "2024-10-17T09:12:17Z",
@@ -517,7 +592,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-10-17T23:46:53Z",
@@ -543,7 +620,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-10-18T09:41:38Z",
@@ -569,7 +648,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-10-18T23:04:09Z",
@@ -595,7 +676,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-10-19T11:48:14Z",
@@ -621,7 +704,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-10-19T12:36:27Z",
@@ -647,7 +732,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-10-19T20:02:25Z",
@@ -673,7 +760,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-10-21T09:54:36Z",
@@ -699,7 +788,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-10-21T20:21:00Z",
@@ -725,7 +816,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-10-22T10:28:48Z",
@@ -751,7 +844,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-10-22T17:38:48Z",
@@ -777,7 +872,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-10-22T18:26:21Z",
@@ -803,7 +900,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-11-07T17:11:37Z",
@@ -829,7 +928,9 @@
     "offline": false,
     "offline_timestamp": 1730982737,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-11-07T17:45:36Z",
@@ -855,7 +956,9 @@
     "offline": false,
     "offline_timestamp": 1730999497,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-11-25T14:05:35Z",
@@ -881,7 +984,9 @@
     "offline": false,
     "offline_timestamp": 1732540798,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-12-20T18:38:16Z",
@@ -907,7 +1012,9 @@
     "offline": false,
     "offline_timestamp": 1734614032,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-12-23T14:28:48Z",
@@ -933,7 +1040,9 @@
     "offline": false,
     "offline_timestamp": 1734964079,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-12-23T14:32:23Z",
@@ -959,7 +1068,9 @@
     "offline": false,
     "offline_timestamp": 1734964128,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-12-30T02:12:00Z",
@@ -985,7 +1096,9 @@
     "offline": false,
     "offline_timestamp": 1735524720,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2024-12-30T17:16:36Z",
@@ -1011,7 +1124,9 @@
     "offline": false,
     "offline_timestamp": 1735578996,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-03T14:24:14Z",
@@ -1037,7 +1152,9 @@
     "offline": false,
     "offline_timestamp": 1735903441,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-07T19:34:42Z",
@@ -1063,7 +1180,9 @@
     "offline": false,
     "offline_timestamp": 1736278479,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-08T09:29:59Z",
@@ -1089,7 +1208,9 @@
     "offline": false,
     "offline_timestamp": 1736328597,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-08T09:30:01Z",
@@ -1115,7 +1236,9 @@
     "offline": false,
     "offline_timestamp": 1736328599,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-09T09:54:52Z",
@@ -1141,7 +1264,9 @@
     "offline": false,
     "offline_timestamp": 1736416492,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-16T14:42:33Z",
@@ -1167,7 +1292,9 @@
     "offline": false,
     "offline_timestamp": 1736947893,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-23T20:07:49Z",
@@ -1193,7 +1320,9 @@
     "offline": false,
     "offline_timestamp": 1737662839,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-23T20:08:40Z",
@@ -1219,7 +1348,9 @@
     "offline": false,
     "offline_timestamp": 1737662906,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-23T20:08:44Z",
@@ -1245,7 +1376,9 @@
     "offline": false,
     "offline_timestamp": 1737662921,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-23T20:11:21Z",
@@ -1271,7 +1404,9 @@
     "offline": false,
     "offline_timestamp": 1737662931,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-23T20:12:10Z",
@@ -1297,7 +1432,9 @@
     "offline": false,
     "offline_timestamp": 1737663130,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-23T20:13:02Z",
@@ -1323,7 +1460,9 @@
     "offline": false,
     "offline_timestamp": 1737663131,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-23T20:19:13Z",
@@ -1349,7 +1488,9 @@
     "offline": false,
     "offline_timestamp": 1737663183,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-23T20:20:18Z",
@@ -1375,7 +1516,9 @@
     "offline": false,
     "offline_timestamp": 1737663558,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T10:21:34Z",
@@ -1401,7 +1544,9 @@
     "offline": false,
     "offline_timestamp": 1737714094,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T10:23:05Z",
@@ -1427,7 +1572,9 @@
     "offline": false,
     "offline_timestamp": 1737714125,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T10:43:17Z",
@@ -1453,7 +1600,9 @@
     "offline": false,
     "offline_timestamp": 1737714213,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T10:44:17Z",
@@ -1479,7 +1628,9 @@
     "offline": false,
     "offline_timestamp": 1737715397,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T11:11:33Z",
@@ -1505,7 +1656,9 @@
     "offline": false,
     "offline_timestamp": 1737716980,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T11:12:34Z",
@@ -1531,7 +1684,9 @@
     "offline": false,
     "offline_timestamp": 1737717094,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T11:23:37Z",
@@ -1557,7 +1712,9 @@
     "offline": false,
     "offline_timestamp": 1737717757,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T11:36:08Z",
@@ -1583,7 +1740,9 @@
     "offline": false,
     "offline_timestamp": 1737718311,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T11:37:09Z",
@@ -1609,7 +1768,9 @@
     "offline": false,
     "offline_timestamp": 1737718569,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T11:45:12Z",
@@ -1635,7 +1796,9 @@
     "offline": false,
     "offline_timestamp": 1737718902,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T11:46:13Z",
@@ -1661,7 +1824,9 @@
     "offline": false,
     "offline_timestamp": 1737719113,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T11:58:22Z",
@@ -1687,7 +1852,9 @@
     "offline": false,
     "offline_timestamp": 1737719668,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T11:59:03Z",
@@ -1713,7 +1880,9 @@
     "offline": false,
     "offline_timestamp": 1737719943,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:05:45Z",
@@ -1739,7 +1908,9 @@
     "offline": false,
     "offline_timestamp": 1737719944,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:06:14Z",
@@ -1765,7 +1936,9 @@
     "offline": false,
     "offline_timestamp": 1737720346,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:08:57Z",
@@ -1791,7 +1964,9 @@
     "offline": false,
     "offline_timestamp": 1737720376,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:09:57Z",
@@ -1817,7 +1992,9 @@
     "offline": false,
     "offline_timestamp": 1737720539,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:11:19Z",
@@ -1843,7 +2020,9 @@
     "offline": false,
     "offline_timestamp": 1737720599,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:11:25Z",
@@ -1869,7 +2048,9 @@
     "offline": false,
     "offline_timestamp": 1737720680,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:12:27Z",
@@ -1895,7 +2076,9 @@
     "offline": false,
     "offline_timestamp": 1737720687,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:13:39Z",
@@ -1921,7 +2104,9 @@
     "offline": false,
     "offline_timestamp": 1737720758,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:25:17Z",
@@ -1947,7 +2132,9 @@
     "offline": false,
     "offline_timestamp": 1737721457,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:26:24Z",
@@ -1973,7 +2160,9 @@
     "offline": false,
     "offline_timestamp": 1737721572,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:29:26Z",
@@ -1999,7 +2188,9 @@
     "offline": false,
     "offline_timestamp": 1737721766,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:30:28Z",
@@ -2025,7 +2216,9 @@
     "offline": false,
     "offline_timestamp": 1737721768,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:51:06Z",
@@ -2051,7 +2244,9 @@
     "offline": false,
     "offline_timestamp": 1737723005,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:52:35Z",
@@ -2077,7 +2272,9 @@
     "offline": false,
     "offline_timestamp": 1737723095,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-24T12:57:52Z",
@@ -2103,7 +2300,9 @@
     "offline": false,
     "offline_timestamp": 1737723412,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-01-27T10:19:55Z",
@@ -2129,7 +2328,9 @@
     "offline": false,
     "offline_timestamp": 1737725694,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-02-07T09:16:47Z",
@@ -2155,7 +2356,9 @@
     "offline": false,
     "offline_timestamp": 1738919807,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-02-07T18:10:25Z",
@@ -2181,7 +2384,9 @@
     "offline": false,
     "offline_timestamp": 1738951775,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-02-07T18:10:25Z",
@@ -2207,7 +2412,9 @@
     "offline": false,
     "offline_timestamp": 1738951825,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-02-07T18:10:42Z",
@@ -2233,7 +2440,9 @@
     "offline": false,
     "offline_timestamp": 1738951839,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-02-07T18:22:47Z",
@@ -2259,7 +2468,9 @@
     "offline": false,
     "offline_timestamp": 1738952561,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-02-07T18:23:17Z",
@@ -2285,7 +2496,9 @@
     "offline": false,
     "offline_timestamp": 1738952597,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-02-17T09:18:00Z",
@@ -2311,7 +2524,9 @@
     "offline": false,
     "offline_timestamp": 1739546499,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-02-17T09:18:02Z",
@@ -2337,7 +2552,9 @@
     "offline": false,
     "offline_timestamp": 1739783882,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-02-27T15:36:40Z",
@@ -2363,7 +2580,9 @@
     "offline": false,
     "offline_timestamp": 1740563654,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-01T15:11:58Z",
@@ -2389,7 +2608,9 @@
     "offline": false,
     "offline_timestamp": 1754061113,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-04T16:30:21Z",
@@ -2415,7 +2636,9 @@
     "offline": false,
     "offline_timestamp": 1754325021,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-04T16:30:25Z",
@@ -2441,7 +2664,9 @@
     "offline": false,
     "offline_timestamp": 1754325025,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-08T13:05:36Z",
@@ -2467,7 +2692,9 @@
     "offline": false,
     "offline_timestamp": 1754658336,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "0du5cEVh5yTK9QJze8zA0C",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-10T17:45:19Z",
@@ -2493,7 +2720,9 @@
     "offline": false,
     "offline_timestamp": 1754847917,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "0du5cEVh5yTK9QJze8zA0C",
+    "artist_genres": []
   },
   {
     "ts": "2025-08-14T21:07:33Z",
@@ -2519,7 +2748,9 @@
     "offline": false,
     "offline_timestamp": 1755205639,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-15T00:07:42Z",
@@ -2545,7 +2776,9 @@
     "offline": false,
     "offline_timestamp": 1755205805,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-15T09:24:02Z",
@@ -2571,7 +2804,9 @@
     "offline": false,
     "offline_timestamp": 1755249842,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-21T15:42:49Z",
@@ -2597,7 +2832,9 @@
     "offline": false,
     "offline_timestamp": 1755723511,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-21T21:14:42Z",
@@ -2623,7 +2860,9 @@
     "offline": false,
     "offline_timestamp": 1755790976,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-22T21:50:03Z",
@@ -2649,7 +2888,9 @@
     "offline": false,
     "offline_timestamp": 1755896325,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-24T16:52:11Z",
@@ -2675,7 +2916,9 @@
     "offline": false,
     "offline_timestamp": 1755956243,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-25T21:39:29Z",
@@ -2701,7 +2944,9 @@
     "offline": false,
     "offline_timestamp": 1756156134,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-25T23:26:55Z",
@@ -2727,7 +2972,9 @@
     "offline": false,
     "offline_timestamp": 1756158221,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-26T15:09:40Z",
@@ -2753,7 +3000,9 @@
     "offline": false,
     "offline_timestamp": 1756200422,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-26T15:09:44Z",
@@ -2779,7 +3028,12 @@
     "offline": false,
     "offline_timestamp": 1756220983,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "7yQrcdkLdBAkV7yY9fF2Hw",
+    "artist_genres": [
+      "pagode",
+      "samba"
+    ]
   },
   {
     "ts": "2025-08-26T15:30:07Z",
@@ -2805,7 +3059,12 @@
     "offline": false,
     "offline_timestamp": 1756222207,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "7yQrcdkLdBAkV7yY9fF2Hw",
+    "artist_genres": [
+      "pagode",
+      "samba"
+    ]
   },
   {
     "ts": "2025-08-26T15:31:30Z",
@@ -2831,7 +3090,9 @@
     "offline": false,
     "offline_timestamp": 1756220983,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-26T15:31:35Z",
@@ -2857,7 +3118,12 @@
     "offline": false,
     "offline_timestamp": 1756222293,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "7yQrcdkLdBAkV7yY9fF2Hw",
+    "artist_genres": [
+      "pagode",
+      "samba"
+    ]
   },
   {
     "ts": "2025-08-26T19:50:45Z",
@@ -2883,7 +3149,12 @@
     "offline": false,
     "offline_timestamp": 1756237844,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "7yQrcdkLdBAkV7yY9fF2Hw",
+    "artist_genres": [
+      "pagode",
+      "samba"
+    ]
   },
   {
     "ts": "2025-08-26T20:47:09Z",
@@ -2909,7 +3180,9 @@
     "offline": false,
     "offline_timestamp": 1756241229,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-26T21:34:39Z",
@@ -2935,7 +3208,9 @@
     "offline": false,
     "offline_timestamp": 1756241408,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-27T13:57:37Z",
@@ -2961,7 +3236,9 @@
     "offline": false,
     "offline_timestamp": 1756303039,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-28T09:21:25Z",
@@ -2987,7 +3264,9 @@
     "offline": false,
     "offline_timestamp": 1756244114,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-08-30T16:17:01Z",
@@ -3013,7 +3292,9 @@
     "offline": false,
     "offline_timestamp": 1756372887,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-02T10:05:13Z",
@@ -3039,7 +3320,9 @@
     "offline": false,
     "offline_timestamp": 1756807512,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-02T10:05:25Z",
@@ -3065,7 +3348,9 @@
     "offline": false,
     "offline_timestamp": 1756807513,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-04T09:24:33Z",
@@ -3091,7 +3376,9 @@
     "offline": false,
     "offline_timestamp": 1756977865,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-04T09:25:00Z",
@@ -3117,7 +3404,9 @@
     "offline": false,
     "offline_timestamp": 1756977890,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-19T16:32:49Z",
@@ -3143,7 +3432,9 @@
     "offline": false,
     "offline_timestamp": 1758299563,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-19T16:32:59Z",
@@ -3169,7 +3460,9 @@
     "offline": false,
     "offline_timestamp": 1758299579,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-19T16:33:16Z",
@@ -3195,7 +3488,9 @@
     "offline": false,
     "offline_timestamp": 1758299596,
     "incognito_mode": true,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-19T16:38:16Z",
@@ -3221,7 +3516,12 @@
     "offline": false,
     "offline_timestamp": 1758299895,
     "incognito_mode": true,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "6v4PBIzRAGaLp43LVureQc",
+    "artist_genres": [
+      "brazilian funk",
+      "brega funk"
+    ]
   },
   {
     "ts": "2025-09-19T16:46:34Z",
@@ -3247,7 +3547,9 @@
     "offline": false,
     "offline_timestamp": 1758300389,
     "incognito_mode": true,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-19T16:53:11Z",
@@ -3273,7 +3575,9 @@
     "offline": false,
     "offline_timestamp": 1758300780,
     "incognito_mode": true,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-22T13:13:47Z",
@@ -3299,7 +3603,12 @@
     "offline": false,
     "offline_timestamp": 1758546826,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+    "artist_genres": [
+      "indie",
+      "lo-fi indie"
+    ]
   },
   {
     "ts": "2025-09-22T13:13:55Z",
@@ -3325,7 +3634,12 @@
     "offline": false,
     "offline_timestamp": 1758546834,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+    "artist_genres": [
+      "indie",
+      "lo-fi indie"
+    ]
   },
   {
     "ts": "2025-09-22T21:35:07Z",
@@ -3351,7 +3665,9 @@
     "offline": false,
     "offline_timestamp": 1758576903,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-24T21:44:11Z",
@@ -3377,7 +3693,14 @@
     "offline": false,
     "offline_timestamp": 1758750250,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "4C4kpaAdp6aKSkguw40SsU",
+    "artist_genres": [
+      "brazilian rock",
+      "mpb",
+      "brazilian pop",
+      "pop rock"
+    ]
   },
   {
     "ts": "2025-09-24T21:44:19Z",
@@ -3403,7 +3726,14 @@
     "offline": false,
     "offline_timestamp": 1758750258,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "4C4kpaAdp6aKSkguw40SsU",
+    "artist_genres": [
+      "brazilian rock",
+      "mpb",
+      "brazilian pop",
+      "pop rock"
+    ]
   },
   {
     "ts": "2025-09-24T21:44:30Z",
@@ -3429,7 +3759,14 @@
     "offline": false,
     "offline_timestamp": 1758750269,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "4C4kpaAdp6aKSkguw40SsU",
+    "artist_genres": [
+      "brazilian rock",
+      "mpb",
+      "brazilian pop",
+      "pop rock"
+    ]
   },
   {
     "ts": "2025-09-24T22:10:10Z",
@@ -3455,7 +3792,11 @@
     "offline": false,
     "offline_timestamp": 1758751810,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5rrmaoBXZ7Jcs4Qb77j0YA",
+    "artist_genres": [
+      "mpb"
+    ]
   },
   {
     "ts": "2025-09-25T10:22:52Z",
@@ -3481,7 +3822,9 @@
     "offline": false,
     "offline_timestamp": 1758795770,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-25T10:24:23Z",
@@ -3507,7 +3850,9 @@
     "offline": false,
     "offline_timestamp": 1758795862,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-09-25T10:28:48Z",
@@ -3533,7 +3878,9 @@
     "offline": false,
     "offline_timestamp": 1758796126,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-10-15T14:46:44Z",
@@ -3559,7 +3906,11 @@
     "offline": false,
     "offline_timestamp": 1760539603,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5rrmaoBXZ7Jcs4Qb77j0YA",
+    "artist_genres": [
+      "mpb"
+    ]
   },
   {
     "ts": "2025-10-15T14:47:40Z",
@@ -3585,7 +3936,11 @@
     "offline": false,
     "offline_timestamp": 1760539660,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5rrmaoBXZ7Jcs4Qb77j0YA",
+    "artist_genres": [
+      "mpb"
+    ]
   },
   {
     "ts": "2025-10-15T14:47:43Z",
@@ -3611,7 +3966,11 @@
     "offline": false,
     "offline_timestamp": 1760539663,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5rrmaoBXZ7Jcs4Qb77j0YA",
+    "artist_genres": [
+      "mpb"
+    ]
   },
   {
     "ts": "2025-10-15T15:02:11Z",
@@ -3637,7 +3996,11 @@
     "offline": false,
     "offline_timestamp": 1760540531,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5rrmaoBXZ7Jcs4Qb77j0YA",
+    "artist_genres": [
+      "mpb"
+    ]
   },
   {
     "ts": "2025-10-15T15:02:19Z",
@@ -3663,7 +4026,11 @@
     "offline": false,
     "offline_timestamp": 1760540539,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5rrmaoBXZ7Jcs4Qb77j0YA",
+    "artist_genres": [
+      "mpb"
+    ]
   },
   {
     "ts": "2025-10-15T15:04:24Z",
@@ -3689,7 +4056,11 @@
     "offline": false,
     "offline_timestamp": 1760540664,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5rrmaoBXZ7Jcs4Qb77j0YA",
+    "artist_genres": [
+      "mpb"
+    ]
   },
   {
     "ts": "2025-11-03T21:02:24Z",
@@ -3715,7 +4086,9 @@
     "offline": false,
     "offline_timestamp": 1762203744,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "3MZsBdqDrRTJihTHQrO6Dq",
+    "artist_genres": []
   },
   {
     "ts": "2025-11-03T21:09:24Z",
@@ -3741,7 +4114,9 @@
     "offline": false,
     "offline_timestamp": 1762204163,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "3MZsBdqDrRTJihTHQrO6Dq",
+    "artist_genres": []
   },
   {
     "ts": "2025-12-01T22:40:25Z",
@@ -3767,7 +4142,11 @@
     "offline": false,
     "offline_timestamp": 1764628825,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "0FEJqmeLRzsXj8hgcZaAyB",
+    "artist_genres": [
+      "french pop"
+    ]
   },
   {
     "ts": "2025-12-06T04:13:29Z",
@@ -3793,7 +4172,16 @@
     "offline": false,
     "offline_timestamp": 1764994408,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "artist_genres": [
+      "christmas",
+      "big band",
+      "adult standards",
+      "swing music",
+      "jazz",
+      "vocal jazz"
+    ]
   },
   {
     "ts": "2025-12-06T04:13:46Z",
@@ -3819,7 +4207,16 @@
     "offline": false,
     "offline_timestamp": 1764994426,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "artist_genres": [
+      "christmas",
+      "big band",
+      "adult standards",
+      "swing music",
+      "jazz",
+      "vocal jazz"
+    ]
   },
   {
     "ts": "2025-12-20T18:32:54Z",
@@ -3845,7 +4242,16 @@
     "offline": false,
     "offline_timestamp": 1766255574,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "artist_genres": [
+      "christmas",
+      "big band",
+      "adult standards",
+      "swing music",
+      "jazz",
+      "vocal jazz"
+    ]
   },
   {
     "ts": "2025-12-24T15:43:58Z",
@@ -3871,7 +4277,12 @@
     "offline": false,
     "offline_timestamp": 1766591038,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "6xF3XdxG7VHRmQmTJxRqX8",
+    "artist_genres": [
+      "brazilian pop",
+      "new mpb"
+    ]
   },
   {
     "ts": "2025-12-24T15:44:01Z",
@@ -3897,7 +4308,12 @@
     "offline": false,
     "offline_timestamp": 1766591041,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "6xF3XdxG7VHRmQmTJxRqX8",
+    "artist_genres": [
+      "brazilian pop",
+      "new mpb"
+    ]
   },
   {
     "ts": "2025-12-25T05:40:02Z",
@@ -3923,7 +4339,16 @@
     "offline": false,
     "offline_timestamp": 1766641202,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "artist_genres": [
+      "christmas",
+      "big band",
+      "adult standards",
+      "swing music",
+      "jazz",
+      "vocal jazz"
+    ]
   },
   {
     "ts": "2025-12-25T05:46:31Z",
@@ -3949,7 +4374,16 @@
     "offline": false,
     "offline_timestamp": 1766641591,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "artist_genres": [
+      "christmas",
+      "big band",
+      "adult standards",
+      "swing music",
+      "jazz",
+      "vocal jazz"
+    ]
   },
   {
     "ts": "2025-12-29T01:33:19Z",
@@ -3975,7 +4409,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "artist_genres": []
   },
   {
     "ts": "2025-12-29T01:40:03Z",
@@ -4001,7 +4437,13 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5H4yInM5zmHqpKIoMNAx4r",
+    "artist_genres": [
+      "uk drill",
+      "drill",
+      "uk grime"
+    ]
   },
   {
     "ts": "2025-12-29T01:42:40Z",
@@ -4027,7 +4469,14 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "6UCQYrcJ6wab6gnQ89OJFh",
+    "artist_genres": [
+      "uk drill",
+      "grime",
+      "drill",
+      "uk grime"
+    ]
   },
   {
     "ts": "2025-12-29T04:10:21Z",
@@ -4053,7 +4502,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "59oBQlP5xoa5cfPkonNNnT",
+    "artist_genres": []
   },
   {
     "ts": "2025-12-29T04:23:57Z",
@@ -4079,7 +4530,13 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5H4yInM5zmHqpKIoMNAx4r",
+    "artist_genres": [
+      "uk drill",
+      "drill",
+      "uk grime"
+    ]
   },
   {
     "ts": "2025-12-30T01:56:50Z",
@@ -4105,7 +4562,14 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "6UCQYrcJ6wab6gnQ89OJFh",
+    "artist_genres": [
+      "uk drill",
+      "grime",
+      "drill",
+      "uk grime"
+    ]
   },
   {
     "ts": "2025-12-30T01:58:50Z",
@@ -4131,7 +4595,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "artist_genres": []
   },
   {
     "ts": "2025-12-30T02:11:07Z",
@@ -4157,7 +4623,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "77SW9BnxLY8rJ0RciFqkHh",
+    "artist_genres": []
   },
   {
     "ts": "2025-12-30T02:12:37Z",
@@ -4183,7 +4651,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "artist_genres": []
   },
   {
     "ts": "2025-12-30T02:21:12Z",
@@ -4209,7 +4679,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "1Xyo4u8uXC1ZmMpatF05PJ",
+    "artist_genres": []
   },
   {
     "ts": "2025-12-30T02:23:29Z",
@@ -4235,7 +4707,13 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5H4yInM5zmHqpKIoMNAx4r",
+    "artist_genres": [
+      "uk drill",
+      "drill",
+      "uk grime"
+    ]
   },
   {
     "ts": "2025-12-30T02:38:39Z",
@@ -4261,7 +4739,11 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "0Y5tJX1MQlPlqiwlOH1tJY",
+    "artist_genres": [
+      "rap"
+    ]
   },
   {
     "ts": "2025-12-30T02:43:10Z",
@@ -4287,7 +4769,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5CiGnKThu5ctn9pBxv7DGa",
+    "artist_genres": []
   },
   {
     "ts": "2025-12-30T02:45:34Z",
@@ -4313,7 +4797,13 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5H4yInM5zmHqpKIoMNAx4r",
+    "artist_genres": [
+      "uk drill",
+      "drill",
+      "uk grime"
+    ]
   },
   {
     "ts": "2025-12-30T03:04:26Z",
@@ -4339,7 +4829,14 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "6W4vm8P3JFQboO4cvHeqaa",
+    "artist_genres": [
+      "uk drill",
+      "grime",
+      "uk grime",
+      "drill"
+    ]
   },
   {
     "ts": "2025-12-30T03:13:51Z",
@@ -4365,7 +4862,9 @@
     "offline": null,
     "offline_timestamp": null,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "5CiGnKThu5ctn9pBxv7DGa",
+    "artist_genres": []
   },
   {
     "ts": "2025-12-30T18:19:15Z",
@@ -4391,7 +4890,9 @@
     "offline": false,
     "offline_timestamp": 1767118754,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2025-12-31T01:27:38Z",
@@ -4417,7 +4918,14 @@
     "offline": false,
     "offline_timestamp": 1767144454,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "6W4vm8P3JFQboO4cvHeqaa",
+    "artist_genres": [
+      "uk drill",
+      "grime",
+      "uk grime",
+      "drill"
+    ]
   },
   {
     "ts": "2026-01-20T03:44:09Z",
@@ -4443,7 +4951,16 @@
     "offline": false,
     "offline_timestamp": 1768880649,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "artist_genres": [
+      "christmas",
+      "big band",
+      "adult standards",
+      "swing music",
+      "jazz",
+      "vocal jazz"
+    ]
   },
   {
     "ts": "2026-01-23T18:14:55Z",
@@ -4469,7 +4986,9 @@
     "offline": false,
     "offline_timestamp": 1769192081,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2026-01-23T18:16:48Z",
@@ -4495,7 +5014,9 @@
     "offline": false,
     "offline_timestamp": 1769192208,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2026-01-25T05:26:03Z",
@@ -4521,7 +5042,9 @@
     "offline": false,
     "offline_timestamp": 1769318762,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": null,
+    "artist_genres": []
   },
   {
     "ts": "2026-01-25T05:28:54Z",
@@ -4547,6 +5070,11 @@
     "offline": false,
     "offline_timestamp": 1769318933,
     "incognito_mode": false,
-    "user": "Fefo"
+    "user": "Fefo",
+    "artist_id": "7dnT2FUXhjirperXaH22IJ",
+    "artist_genres": [
+      "mpb",
+      "brazilian rock"
+    ]
   }
 ]
