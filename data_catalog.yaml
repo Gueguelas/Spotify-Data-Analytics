@@ -109,7 +109,7 @@ schema:
       description: "Gênero do artista"
       example: "Nu Metal"
 
-    - name: User
+    - name: user
       type: string
       nullable: true
       description: "A pessoa que ouviu a música"
